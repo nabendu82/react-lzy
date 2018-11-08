@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the process with the follow
 
 ```
 > git clone https://github.com/nabendu82/react-lzy.git
-> cd react-higher-order-components
+> cd react-lzy
 > npm install
 > npm start
 ```
